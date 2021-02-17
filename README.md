@@ -16,4 +16,7 @@ The issue I was having is this: if you notice, there are periodically large PV v
 ## HNO<sub>3</sub> profiles and PDFs
 Here are Jan, Feb, and March respectively:
 
+<!---
 ![Jan_HNO3](images/MIPAS_HNO3_Vortex_01.eps)
+--->
+<img src="images/MIPAS_HNO3_Vortex_01.eps" alt="Jan_HNO3"/>
