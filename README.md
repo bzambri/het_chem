@@ -41,9 +41,11 @@ In all cases, all the CDFs are drawn from different distributions:
 <p align="center"><img src="png/MIPAS_CDF_164-68_03.png" alt="Mar_HNO3_CDF" width="50%"/></p>
 
 ### SAGE3m NO<sub>2</sub>
+As above, but for SAGE3m NO<sub>2</sub>
 <img src="png/SAGE3m_NO2_Vortex01_164-72.png" alt="Jan_NO2_pdf"/>
-<img src="png/SAGE3m_NO3_Vortex02_164-72.png" alt="Feb_NO2_pdf"/>
+<img src="png/SAGE3m_NO2_Vortex02_164-72.png" alt="Feb_NO2_pdf"/>
 <img src="png/SAGE3m_NO2_Vortex03_164-72.png" alt="Mar_NO2_pdf"/>
+If this is right (I think it is, but I will double-check everything), then it looks like everything in the NH is mixing of polar-subpolar air (see noHet60NS vs noHetAll below). I definitely would like to see what this looks like in the deNOy runs.
 <img src="png/SAGE3m_CDF_02_164-72.png" alt="Feb_NO2_cdf"/>
 
 
