@@ -14,11 +14,17 @@ The issue I was having is this: if you notice, there are periodically large PV v
 --->
 
 ## HNO<sub>3</sub> profiles and PDFs
-Here are Jan, Feb, and March respectively:
+Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 
 <!---
 ![Jan_HNO3](images/MIPAS_HNO3_Vortex_01.eps)
 --->
-<img src="png/MIPAS_HNO3_Vortex_01.png" alt="Jan_HNO3"/>
-<img src="png/MIPAS_HNO3_Vortex_02.png" alt="Feb_HNO3"/>
-<img src="png/MIPAS_HNO3_Vortex_03.png" alt="Mar_HNO3"/>
+<img src="png/MIPAS_HNO3_Vortex_01.png" alt="Jan_HNO3_pdf"/>
+<img src="png/MIPAS_HNO3_Vortex_02.png" alt="Feb_HNO3_pdf"/>
+<img src="png/MIPAS_HNO3_Vortex_03.png" alt="Mar_HNO3_pdf"/>
+
+And here are their CDFs:
+
+<img src="png/MIPAS_CDF_168-64_01.png" alt="Jan_HNO3_CDF"/>
+<img src="png/MIPAS_CDF_168-64_01.png" alt="Feb_HNO3_CDF"/>
+<img src="png/MIPAS_CDF_168-64_01.png" alt="Mar_HNO3_CDF"/>
