@@ -1,6 +1,8 @@
 # het_chem
 ## Some stuff for Doug's het chem project
 
+1. [Subpolar PDFs](README.md#HNO<sub>3</sub> profiles and PDFs)
+
 Here's the Northern Hemisphere (NH) polar vortex for 2002-2003; the vortex edge is the thick black contour. Note that in most of November, the polar vortex is sort of barely there. And by April, too, it is all but gone. So I focused on JFM for the NH subpolar retrievals shown below. 
 
 <p align="center"><img src="gifs/20021101.gif" alt="2002 NH polar vortex" width="75%"/></p>
