@@ -19,4 +19,6 @@ Here are Jan, Feb, and March respectively:
 <!---
 ![Jan_HNO3](images/MIPAS_HNO3_Vortex_01.eps)
 --->
-<img src="images/MIPAS_HNO3_Vortex_01.pdf" alt="Jan_HNO3"/>
+<img src="png/MIPAS_HNO3_Vortex_01.png" alt="Jan_HNO3"/>
+<img src="png/MIPAS_HNO3_Vortex_02.png" alt="Feb_HNO3"/>
+<img src="png/MIPAS_HNO3_Vortex_03.png" alt="Mar_HNO3"/>
