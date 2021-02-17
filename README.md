@@ -3,7 +3,7 @@
 
 Here's the Northern Hemisphere (NH) polar vortex for 2002-2003; the vortex edge is the thick black contour. Note that in most of November, the polar vortex is sort of barely there. And by April, too, it is all but gone. So I think we need to focus on (D)JFM for these subpolar retrievals in the NH. 
 
-<img src="gifs/20021101.gif" alt="2002 NH polar vortex" width="50"/>
+<img src="gifs/20021101.gif" alt="2002 NH polar vortex" width="50%"/>
 <!---
 ![2002 NH polar vortex](gifs/20021101.gif)
 --->
