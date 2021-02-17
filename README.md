@@ -1,7 +1,12 @@
 # het_chem
 ## Some stuff for Doug's het chem project
 
-1. [Subpolar](README.md#HNO3-profiles-and-PDFs)
+1. [NH Subpolar](README.md#NH-subpolar)
+   * [Subpolar PDFs](README.md#HNO3-profiles-and-PDFs)
+   * [Subpolar CDFs](README.md#HNO3-CDFs)
+1. [Monsoon HNO<sub>3</sub>](README.md#Monsoon)
+
+## NH Subpolar
 
 Here's the Northern Hemisphere (NH) polar vortex for 2002-2003; the vortex edge is the thick black contour. Note that in most of November, the polar vortex is sort of barely there. And by April, too, it is all but gone. So I focused on JFM for the NH subpolar retrievals shown below. 
 
@@ -15,7 +20,7 @@ Here's another example (2004-2005), which is similar if not a little bit more st
 The issue I was having is this: if you notice, there are periodically large PV values over the Himalayas. This is similar to what happens over the Andes in the SH, but the Andes run basically N-S, while the Himalayas have a much greater zonal extent. Anyway, all this meant was that I had to tweak the vortex edge definition a bit to make sure we weren't including profiles over the Himalayas in our distributions. Here are the results for that
 --->
 
-## HNO<sub>3</sub> profiles and PDFs
+### HNO<sub>3</sub> profiles and PDFs
 Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 
 <!---
@@ -27,15 +32,24 @@ Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 
 Besides the clear indication of heterogeneous processing (compare to noHetChem), I think the most noticeable thing here is the bump in HNO3 in Feb and especially March in WACCMhet008.
 
-## HNO<sub>3</sub> CDFs 
+### HNO<sub>3</sub> CDFs 
 In all cases, all the CDFs are drawn from different distributions:
 
 <p align="center"><img src="png/MIPAS_CDF_164-68_01.png" alt="Jan_HNO3_CDF" width="50%"/></p>
 <p align="center"><img src="png/MIPAS_CDF_164-68_02.png" alt="Feb_HNO3_CDF" width="50%"/></p>
 <p align="center"><img src="png/MIPAS_CDF_164-68_03.png" alt="Mar_HNO3_CDF" width="50%"/></p>
 
+## Monsoon
+
+Here are the PDF plots for June-September for 0-15N, Eastern Hemisphere only:
+
+<img src="png/MIPAS_HNO3_Vortex_06_0-15N.png" alt="Jun_monsoon_pdf"/>
+<img src="png/MIPAS_HNO3_Vortex_07_0-15N.png" alt="Jul_monsoon_pdf"/>
+<img src="png/MIPAS_HNO3_Vortex_08_0-15N.png" alt="Aug_monsoon_pdf"/>
+<img src="png/MIPAS_HNO3_Vortex_09_0-15N.png" alt="Sep_monsoon_pdf"/>
+
 To Do:
-- [ ] post monsoon plots
+- [x] post monsoon plots
 - [ ] check out SAGE3m NO<sub>2</sub> for the NH
 - [ ] check num profiles for 008 run (sunrise/sunset?)
 
