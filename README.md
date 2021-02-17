@@ -30,6 +30,6 @@ And here are their CDFs (in all cases, all the CDFs are drawn from different dis
 <p align="center"><img src="png/MIPAS_CDF_164-68_03.png" alt="Mar_HNO3_CDF" width="50%"/></p>
 
 To Do:
-[] post monsoon plots
-[] check out SAGE3m NO<sub>2</sub> for the NH
+- [ ] post monsoon plots
+- [ ] check out SAGE3m NO<sub>2</sub> for the NH
 
