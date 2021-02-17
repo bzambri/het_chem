@@ -23,7 +23,7 @@ Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 <img src="png/MIPAS_HNO3_Vortex_02.png" alt="Feb_HNO3_pdf"/>
 <img src="png/MIPAS_HNO3_Vortex_03.png" alt="Mar_HNO3_pdf"/>
 
-I think the most noticeable thing here is the bump in HNO3 in Feb and especially March in WACCMhet008.
+Besides the clear indication of heterogeneous processing (compare to noHetChem), I think the most noticeable thing here is the bump in HNO3 in Feb and especially March in WACCMhet008.
 
 ## HNO<sub>3</sub> CDFs 
 In all cases, all the CDFs are drawn from different distributions:
