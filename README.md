@@ -11,4 +11,5 @@ Here's another example (2004-2005), which is similar if not a little bit more st
 
 The issue I was having is this: if you notice, there are periodically large PV values over the Himalayas. This is similar to what happens over the Andes in the SH, but the Andes run basically N-S, while the Himalayas have a much greater zonal extent. Anyway, all this meant was that I had to tweak the vortex edge definition a bit to make sure we weren't including profiles over the Himalayas in our distributions. Here are the results for that
 
-## HNO_3 profiles and PDFs
+## HNO<sub>3</sub> profiles and PDFs
+
