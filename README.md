@@ -35,4 +35,5 @@ In all cases, all the CDFs are drawn from different distributions:
 To Do:
 - [ ] post monsoon plots
 - [ ] check out SAGE3m NO<sub>2</sub> for the NH
+- [ ] check num profiles for 008 run (sunrise/sunset?)
 
