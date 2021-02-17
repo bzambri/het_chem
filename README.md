@@ -25,6 +25,6 @@ Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 
 And here are their CDFs:
 
-<img src="png/MIPAS_CDF_168-64_01.png" alt="Jan_HNO3_CDF"/>
-<img src="png/MIPAS_CDF_168-64_01.png" alt="Feb_HNO3_CDF"/>
-<img src="png/MIPAS_CDF_168-64_01.png" alt="Mar_HNO3_CDF"/>
+<img src="png/MIPAS_CDF_164-68_01.png" alt="Jan_HNO3_CDF"/>
+<img src="png/MIPAS_CDF_164-68_02.png" alt="Feb_HNO3_CDF"/>
+<img src="png/MIPAS_CDF_164-68_03.png" alt="Mar_HNO3_CDF"/>
