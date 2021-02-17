@@ -4,8 +4,7 @@
 1. [NH Subpolar](README.md#NH-subpolar)
    * [MIPAS HNO<sub>3</sub> PDFs](README.md#MIPAS-HNO3-profiles-and-PDFs)
    * [MIPAS HNO<sub>3</sub> CDFs](README.md#HNO3-CDFs)
-   * [SAGE3m NO<sub>2</sub> PDFs](README.md#SAGE3m-NO2-profiles-and-PDFs)
-   * [SAGE3m NO<sub>2</sub> CDFs](README.md#NO2-CDFs)
+   * [SAGE3m NO<sub>2</sub>](README.md#SAGE3m-NO2)
 1. [Monsoon HNO<sub>3</sub>](README.md#Monsoon)
 
 ## NH Subpolar
@@ -41,8 +40,12 @@ In all cases, all the CDFs are drawn from different distributions:
 <p align="center"><img src="png/MIPAS_CDF_164-68_02.png" alt="Feb_HNO3_CDF" width="50%"/></p>
 <p align="center"><img src="png/MIPAS_CDF_164-68_03.png" alt="Mar_HNO3_CDF" width="50%"/></p>
 
-### SAGE3m NO<sub>2</sub> profiles and PDFs
-### NO<sub>2</sub> CDFs
+### SAGE3m NO<sub>2</sub>
+<img src="png/SAGE3m_NO2_Vortex01_164-72.png" alt="Jan_NO2_pdf"/>
+<img src="png/SAGE3m_NO3_Vortex02_164-72.png" alt="Feb_NO2_pdf"/>
+<img src="png/SAGE3m_NO2_Vortex03_164-72.png" alt="Mar_NO2_pdf"/>
+<img src="png/SAGE3m_CDF_02_164-72.png" alt="Feb_NO2_cdf"/>
+
 
 ## Monsoon
 
