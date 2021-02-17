@@ -60,6 +60,6 @@ Here are the PDF plots for June-September for 0-15N, Eastern Hemisphere only:
 
 To Do:
 - [x] post monsoon plots
-- [ ] check out SAGE3m NO<sub>2</sub> for the NH
+- [x] check out SAGE3m NO<sub>2</sub> for the NH
 - [ ] check num profiles for 008 run (sunrise/sunset?)
 
