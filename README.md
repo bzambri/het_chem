@@ -23,7 +23,10 @@ Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 <img src="png/MIPAS_HNO3_Vortex_02.png" alt="Feb_HNO3_pdf"/>
 <img src="png/MIPAS_HNO3_Vortex_03.png" alt="Mar_HNO3_pdf"/>
 
-And here are their CDFs (in all cases, all the CDFs are drawn from different distributions):
+I think the most noticeable thing here is the bump in HNO3 in Feb and especially March in WACCMhet008.
+
+## HNO<sub>3</sub> CDFs 
+In all cases, all the CDFs are drawn from different distributions:
 
 <p align="center"><img src="png/MIPAS_CDF_164-68_01.png" alt="Jan_HNO3_CDF" width="50%"/></p>
 <p align="center"><img src="png/MIPAS_CDF_164-68_02.png" alt="Feb_HNO3_CDF" width="50%"/></p>
