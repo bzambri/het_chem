@@ -23,8 +23,13 @@ Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 <img src="png/MIPAS_HNO3_Vortex_02.png" alt="Feb_HNO3_pdf"/>
 <img src="png/MIPAS_HNO3_Vortex_03.png" alt="Mar_HNO3_pdf"/>
 
-And here are their CDFs:
+And here are their CDFs (in all cases, all the CDFs are drawn from different distributions):
 
 <p align="center"><img src="png/MIPAS_CDF_164-68_01.png" alt="Jan_HNO3_CDF" width="50%"/></p>
 <p align="center"><img src="png/MIPAS_CDF_164-68_02.png" alt="Feb_HNO3_CDF" width="50%"/></p>
 <p align="center"><img src="png/MIPAS_CDF_164-68_03.png" alt="Mar_HNO3_CDF" width="50%"/></p>
+
+To Do:
+[] post monsoon plots
+[] check out SAGE3m NO<sub>2</sub> for the NH
+
