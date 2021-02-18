@@ -58,8 +58,3 @@ Here are the PDF plots for June-September for 0-15N, Eastern Hemisphere only:
 <img src="png/MIPAS_HNO3_Vortex_08_0-15N.png" alt="Aug_monsoon_pdf"/>
 <img src="png/MIPAS_HNO3_Vortex_09_0-15N.png" alt="Sep_monsoon_pdf"/>
 
-To Do:
-- [x] post monsoon plots
-- [x] check out SAGE3m NO<sub>2</sub> for the NH
-- [ ] check num profiles for 008 run (sunrise/sunset?)
-
