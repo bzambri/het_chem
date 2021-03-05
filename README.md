@@ -111,6 +111,7 @@ If this is right (I think it is, but I will double-check everything), then it lo
 --->
 
 ## Monsoon<sup>*</sup>
+<sup>*</sup>These have not been updated with new runs and excluding 0 days for MIPAS.
 
 Here are the PDF plots for June-September for 0-15N, Eastern Hemisphere only:
 
