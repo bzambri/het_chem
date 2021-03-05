@@ -74,19 +74,46 @@ Same as above, but the distribution plots are for 70-30 hPa. After looking at th
 
 ### Individual years
 Below are the indiviual years for February. In general, WACCM varies a lot more than the obs.
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2003.png" alt="Jan_HNO3_pdf" width="50%"/>
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2004.png" alt="Feb_HNO3_pdf" width="50%"/>
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2005.png" alt="Mar_HNO3_pdf" width="50%"/>
-
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2006.png" alt="Jan_HNO3_pdf" width="50%"/>
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2007.png" alt="Feb_HNO3_pdf" width="50%"/>
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2008.png" alt="Mar_HNO3_pdf" width="50%"/>
-
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2009.png" alt="Jan_HNO3_pdf" width="50%"/>
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2010.png" alt="Feb_HNO3_pdf" width="50%"/>
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2011.png" alt="Mar_HNO3_pdf" width="50%"/>
-
-<img src="png/MIPAS_HNO3_Vortex_164-68_01-2012.png" alt="Jan_HNO3_pdf" width="50%"/>
+<div class="row">
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2003.png" alt="Jan_HNO3_pdf" width="50%"/>
+  </div>
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2004.png" alt="Feb_HNO3_pdf" width="50%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2005.png" alt="Jan_HNO3_pdf" width="50%"/>
+  </div>
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2006.png" alt="Feb_HNO3_pdf" width="50%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2007.png" alt="Jan_HNO3_pdf" width="50%"/>
+  </div>
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2008.png" alt="Feb_HNO3_pdf" width="50%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2009.png" alt="Jan_HNO3_pdf" width="50%"/>
+  </div>
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2010.png" alt="Feb_HNO3_pdf" width="50%"/>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2011.png" alt="Jan_HNO3_pdf" width="50%"/>
+  </div>
+  <div class="column">
+    <img src="png/MIPAS_HNO3_Vortex_164-68_01-2012.png" alt="Feb_HNO3_pdf" width="50%"/>
+  </div>
+</div>
 
 <!---
 ### SAGE3m NO<sub>2</sub>
@@ -98,7 +125,7 @@ If this is right (I think it is, but I will double-check everything), then it lo
 <img src="png/SAGE3m_CDF_02_164-72.png" alt="Feb_NO2_cdf"/>
 --->
 
-## Monsoon
+## Monsoon<sup>*</sup>
 
 Here are the PDF plots for June-September for 0-15N, Eastern Hemisphere only:
 
