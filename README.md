@@ -2,8 +2,9 @@
 ## het chem project update(s)
 
 To do:
-- [x] Compare MIPAS and WACCM profiles (time, space, quantity)
+- [x] Compare MIPAS and WACCM profiles
 - [x] 70-30 hPa
+- [x] Plot individual years
 - [ ] Apply changes to monsoon
 - [ ] Spatial deNO<sub>y</sub>
 
@@ -15,6 +16,7 @@ To do:
    * [70-30 hPa](README.md#70-30-hPa)
       * [MIPAS HNO<sub>3</sub> PDFs](README.md#MIPAS-HNO3-profiles-and-PDFs)
       * [MIPAS HNO<sub>3</sub> CDFs](README.md#HNO3-CDFs)
+   * [Individual years](README.md#individual-years)
 1. [Monsoon HNO<sub>3</sub>](README.md#Monsoon)
 <!---   * [SAGE3m NO<sub>2</sub>](README.md#SAGE3m-NO2) --->
 
@@ -36,7 +38,7 @@ Red circles are WACCM, black circles are MIPAS. Pretty good match. But the probl
 Essentially, there are many days where MIPAS is observing nothing but WACCM is observing the usual ~500 profiles in the NH. I changed my scripts to only report WACCM profiles on days when MIPAS also has at least 1 profile inside the vortex edge. As you'll see below, this helps but there are still more WACCM profiles than observed. So I may have to set a higher threshold (in the map above there are ~50 profiles...maybe 15 or more is a "good" day? I can look for a "bad" MIPAS day and plot that vs. WACCM), or I can match exact profile numbers.
 
 ### UTLS (164-68 hPa)
-### UTLS MIPAS HNO<sub>3</sub> profiles and PDFs
+#### UTLS MIPAS HNO<sub>3</sub> profiles and PDFs
 Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 
 <!---
@@ -46,7 +48,7 @@ Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 <img src="png/MIPAS_HNO3_Vortex_164-68_02.png" alt="Feb_HNO3_pdf"/>
 <img src="png/MIPAS_HNO3_Vortex_164-68_03.png" alt="Mar_HNO3_pdf"/>
 
-### UTLS HNO<sub>3</sub> CDFs 
+#### UTLS HNO<sub>3</sub> CDFs 
 In all cases, all the CDFs are drawn from different distributions:
 
 <p align="center"><img src="png/MIPAS_CDF_164-68_01.png" alt="Jan_HNO3_CDF" width="50%"/></p>
@@ -54,8 +56,8 @@ In all cases, all the CDFs are drawn from different distributions:
 <p align="center"><img src="png/MIPAS_CDF_164-68_03.png" alt="Mar_HNO3_CDF" width="50%"/></p>
 
 ### 70-30 hPa
-### MIPAS HNO<sub>3</sub> profiles and PDFs
-Here are Jan (excuse the aspect ratio), Feb, and March respectively:
+#### MIPAS HNO<sub>3</sub> profiles and PDFs
+Same as above, but the distribution plots are for 70-30 hPa. After looking at this, I could probably go to ~20 hPa. Anyway, these look really good! You were right Doug, looks like this is where the magic happens.
 
 <!---
 ![Jan_HNO3](images/MIPAS_HNO3_Vortex_01.eps)
@@ -64,11 +66,27 @@ Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 <img src="png/MIPAS_HNO3_Vortex_70-30_02.png" alt="Feb_HNO3_pdf"/>
 <img src="png/MIPAS_HNO3_Vortex_70-30_03.png" alt="Mar_HNO3_pdf"/>
 
-### HNO<sub>3</sub> CDFs 
+#### HNO<sub>3</sub> CDFs 
 
 <p align="center"><img src="png/MIPAS_CDF_70-30_01.png" alt="Jan_HNO3_CDF" width="50%"/></p>
 <p align="center"><img src="png/MIPAS_CDF_70-30_02.png" alt="Feb_HNO3_CDF" width="50%"/></p>
 <p align="center"><img src="png/MIPAS_CDF_70-30_03.png" alt="Mar_HNO3_CDF" width="50%"/></p>
+
+### Individual years
+Below are the indiviual years for February. In general, WACCM varies a lot more than the obs.
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2003.png" alt="Jan_HNO3_pdf" width="50%"/>
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2004.png" alt="Feb_HNO3_pdf" width="50%"/>
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2005.png" alt="Mar_HNO3_pdf" width="50%"/>
+
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2006.png" alt="Jan_HNO3_pdf" width="50%"/>
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2007.png" alt="Feb_HNO3_pdf" width="50%"/>
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2008.png" alt="Mar_HNO3_pdf" width="50%"/>
+
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2009.png" alt="Jan_HNO3_pdf" width="50%"/>
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2010.png" alt="Feb_HNO3_pdf" width="50%"/>
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2011.png" alt="Mar_HNO3_pdf" width="50%"/>
+
+<img src="png/MIPAS_HNO3_Vortex_164-68_01-2012.png" alt="Jan_HNO3_pdf" width="50%"/>
 
 <!---
 ### SAGE3m NO<sub>2</sub>
