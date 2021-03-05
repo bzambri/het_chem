@@ -3,7 +3,7 @@
 
 To do:
 - [x] Compare MIPAS and WACCM profiles (time, space, quantity)
-- [ ] 70-30 hPa
+- [x] 70-30 hPa
 - [ ] Apply changes to monsoon
 - [ ] Spatial deNO<sub>y</sub>
 
