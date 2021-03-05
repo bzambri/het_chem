@@ -137,7 +137,7 @@ Monsoon looks good, I think, and HetAll.008 certainly looks the best out of the 
 
 <p float="left">
   <img src="png/MIPAS_HNO3_Vortex_07-2011_0-30N.png" alt="Jul_HNO3_pdf" width="50%"/>
-  <img src="png/MIPAS_CDF_101-50_07-2011.png" alt="Jul_HNO3_CDF" width="50%"/>
+  <img src="png/MIPAS_CDF_101-50_07-2011.png" alt="Jul_HNO3_CDF" width="40%"/>
 </p>
 
 
