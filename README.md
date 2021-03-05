@@ -39,7 +39,7 @@ Essentially, there are many days where MIPAS is observing nothing but WACCM is o
 
 ### UTLS (164-68 hPa)
 #### UTLS MIPAS HNO<sub>3</sub> profiles and PDFs
-Here are Jan (excuse the aspect ratio), Feb, and March respectively:
+Here are Jan, Feb, and March respectively:
 
 <!---
 ![Jan_HNO3](images/MIPAS_HNO3_Vortex_01.eps)
@@ -47,6 +47,8 @@ Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 <img src="png/MIPAS_HNO3_Vortex_164-68_01.png" alt="Jan_HNO3_pdf"/>
 <img src="png/MIPAS_HNO3_Vortex_164-68_02.png" alt="Feb_HNO3_pdf"/>
 <img src="png/MIPAS_HNO3_Vortex_164-68_03.png" alt="Mar_HNO3_pdf"/>
+
+This does not explain the big peak in hetAll.008, but I'm thinking to take, e.g., the first 15 days of March only (similar to how we were doing 0901-1015 for SH at one point).
 
 #### UTLS HNO<sub>3</sub> CDFs 
 In all cases, all the CDFs are drawn from different distributions:
