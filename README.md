@@ -5,7 +5,7 @@ To do:
 - [x] Compare MIPAS and WACCM profiles
 - [x] 70-30 hPa
 - [x] Plot individual years
-- [ ] Apply changes to monsoon
+- [x] Apply changes to monsoon
 - [ ] Spatial deNO<sub>y</sub>
 
 1. [NH Subpolar](README.md#NH-subpolar)
@@ -112,15 +112,32 @@ If this is right (I think it is, but I will double-check everything), then it lo
 <img src="png/SAGE3m_CDF_02_164-72.png" alt="Feb_NO2_cdf"/>
 --->
 
-## Monsoon<sup>*</sup>
-<sup>*</sup>These have not been updated with new runs and excluding 0 days for MIPAS.
+## Monsoon
 
-Here are the PDF plots for June-September for 0-15N, Eastern Hemisphere only:
+Here are the PDF plots for June-August for 0-30N, Eastern Hemisphere only:
 
-<img src="png/MIPAS_HNO3_Vortex_06_0-15N.png" alt="Jun_monsoon_pdf"/>
-<img src="png/MIPAS_HNO3_Vortex_07_0-15N.png" alt="Jul_monsoon_pdf"/>
-<img src="png/MIPAS_HNO3_Vortex_08_0-15N.png" alt="Aug_monsoon_pdf"/>
-<img src="png/MIPAS_HNO3_Vortex_09_0-15N.png" alt="Sep_monsoon_pdf"/>
+Here are Jan, Feb, and March respectively:
 
+<!---
+![Jan_HNO3](images/MIPAS_HNO3_Vortex_01.eps)
+--->
+<img src="png/MIPAS_HNO3_Vortex_06_0-30N.png" alt="Jan_HNO3_pdf"/>
+<img src="png/MIPAS_HNO3_Vortex_07_0-30N.png" alt="Feb_HNO3_pdf"/>
+<img src="png/MIPAS_HNO3_Vortex_08_0-30N.png" alt="Mar_HNO3_pdf"/>
+
+And the CDFs:
+
+<p float="left">
+  <img src="png/MIPAS_CDF_101-50_06.png" alt="Jun_HNO3_CDF" width="30%"/>
+  <img src="png/MIPAS_CDF_101-50_07.png" alt="Jul_HNO3_CDF" width="30%"/>
+  <img src="png/MIPAS_CDF_101-50_08.png" alt="Aug_HNO3_CDF" width="30%"/>
+</p>
+
+Monsoon looks good, I think, and HetAll.008 certainly looks the best out of the WACCM bunch. It looks like this could be a bias issue, and I'll try shifting means tomorrow and see how the CDFs look. July 2011 is also shown below as an example of a single year:
+
+<p float="left">
+  <img src="png/MIPAS_HNO3_Vortex_07-2011_0-30N.png" alt="Jul_HNO3_pdf" width="50%"/>
+  <img src="png/MIPAS_CDF_101-50_07-2011.png" alt="Jul_HNO3_CDF" width="50%"/>
+</p>
 
 
