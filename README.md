@@ -51,7 +51,7 @@ Here are Jan, Feb, and March respectively:
 This does not explain the big peak in hetAll.008, but I'm thinking to take, e.g., the first 15 days of March only (similar to how we were doing 0901-1015 for SH at one point).
 
 #### UTLS HNO<sub>3</sub> CDFs 
-In all cases, all the CDFs are drawn from different distributions:
+In all cases, all the CDFs are drawn from different distributions (and it looks like indeed noHetAll is closest to the obs):
 
 <p float="left">
   <img src="png/MIPAS_CDF_164-68_01.png" alt="Jan_HNO3_CDF" width="30%"/>
