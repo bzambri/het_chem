@@ -51,9 +51,11 @@ Here are Jan (excuse the aspect ratio), Feb, and March respectively:
 #### UTLS HNO<sub>3</sub> CDFs 
 In all cases, all the CDFs are drawn from different distributions:
 
-<p align="center"><img src="png/MIPAS_CDF_164-68_01.png" alt="Jan_HNO3_CDF" width="50%"/></p>
-<p align="center"><img src="png/MIPAS_CDF_164-68_02.png" alt="Feb_HNO3_CDF" width="50%"/></p>
-<p align="center"><img src="png/MIPAS_CDF_164-68_03.png" alt="Mar_HNO3_CDF" width="50%"/></p>
+<p float="left">
+  <img src="png/MIPAS_CDF_164-68_01.png" alt="Jan_HNO3_CDF" width="30%"/>
+  <img src="png/MIPAS_CDF_164-68_02.png" alt="Feb_HNO3_CDF" width="30%"/>
+  <img src="png/MIPAS_CDF_164-68_03.png" alt="Mar_HNO3_CDF" width="30%"/>
+</p>
 
 ### 70-30 hPa
 #### MIPAS HNO<sub>3</sub> profiles and PDFs
@@ -78,24 +80,24 @@ Same as above, but the distribution plots are for 70-30 hPa. After looking at th
 Below are the indiviual years for February. In general, WACCM varies a lot more than the obs.
 
 <p float="left">
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2003.png" alt="Jan_HNO3_pdf" width="50%"/>
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2004.png" alt="Feb_HNO3_pdf" width="50%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2003.png" alt="Jan_HNO3_pdf" width="45%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2004.png" alt="Feb_HNO3_pdf" width="45%"/>
 </p>
 <p float="left">
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2005.png" alt="Jan_HNO3_pdf" width="50%"/>
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2006.png" alt="Feb_HNO3_pdf" width="50%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2005.png" alt="Jan_HNO3_pdf" width="45%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2006.png" alt="Feb_HNO3_pdf" width="45%"/>
 </p>
 <p float="left">
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2007.png" alt="Jan_HNO3_pdf" width="50%"/>
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2008.png" alt="Feb_HNO3_pdf" width="50%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2007.png" alt="Jan_HNO3_pdf" width="45%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2008.png" alt="Feb_HNO3_pdf" width="45%"/>
 </p>
 <p float="left">
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2009.png" alt="Jan_HNO3_pdf" width="50%"/>
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2010.png" alt="Feb_HNO3_pdf" width="50%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2009.png" alt="Jan_HNO3_pdf" width="45%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2010.png" alt="Feb_HNO3_pdf" width="45%"/>
 </p>
 <p float="left">
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2011.png" alt="Jan_HNO3_pdf" width="50%"/>
-  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2012.png" alt="Feb_HNO3_pdf" width="50%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2011.png" alt="Jan_HNO3_pdf" width="45%"/>
+  <img src="png/MIPAS_HNO3_Vortex_164-68_01-2012.png" alt="Feb_HNO3_pdf" width="45%"/>
 </p>
 
 <!---
