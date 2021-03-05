@@ -33,7 +33,7 @@ There are substantially more profiles in WACCM compared to MIPAS. However, good 
 <p align="center"><img src="png/MIPAS_NH_vortex_sample.png" alt="Jan_HNO3_pdf"/></p>
 Red circles are WACCM, black circles are MIPAS. Pretty good match. But the problem is all the downtime that MIPAS had over its lifetime. The plot below shows the number of NH profiles for each day in WACCM (red), MIPAS (black), and the daily difference (blue):
 <p align="center"><img src="png/nprof_MIPAS.png" alt="daily_nprofiles"/></p>
-Essentially, there are many days where MIPAS is observing nothing but WACCM is observing the usual ~500 profiles in the NH. I changed my scripts to only report WACCM profiles on days when MIPAS also has at least 1 profile inside the vortex edge. As you'll see below, this helps but there are still more WACCM profiles than observed. So I may have to set a higher threshold (in the map above there are ~50 profiles...maybe 15 or more is a "good" day? I can look for a "bad" MIPAS day and plot that vs. WACCM).
+Essentially, there are many days where MIPAS is observing nothing but WACCM is observing the usual ~500 profiles in the NH. I changed my scripts to only report WACCM profiles on days when MIPAS also has at least 1 profile inside the vortex edge. As you'll see below, this helps but there are still more WACCM profiles than observed. So I may have to set a higher threshold (in the map above there are ~50 profiles...maybe 15 or more is a "good" day? I can look for a "bad" MIPAS day and plot that vs. WACCM), or I can match exact profile numbers.
 
 ### UTLS (164-68 hPa)
 ### UTLS MIPAS HNO<sub>3</sub> profiles and PDFs
