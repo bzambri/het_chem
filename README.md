@@ -67,17 +67,12 @@ Same as above, but the distribution plots are for 70-30 hPa. After looking at th
 <img src="png/MIPAS_HNO3_Vortex_70-30_03.png" alt="Mar_HNO3_pdf"/>
 
 #### HNO<sub>3</sub> CDFs 
-<div class="row">
-  <div class="column">
-    <img src="png/MIPAS_CDF_70-30_01.png" alt="Jan_HNO3_CDF" width="40%"/>
-  </div>
-  <div class="column">
-    <img src="png/MIPAS_CDF_70-30_02.png" alt="Feb_HNO3_CDF" width="40%"/>
-  </div>
-  <div class="column">
-    <img src="png/MIPAS_CDF_70-30_03.png" alt="Mar_HNO3_CDF" width="40%"/>
-  </div>
-</div>
+<p float="left">
+  <img src="png/MIPAS_CDF_70-30_01.png" alt="Jan_HNO3_CDF" width="40%"/>
+  <img src="png/MIPAS_CDF_70-30_02.png" alt="Feb_HNO3_CDF" width="40%"/>
+  <img src="png/MIPAS_CDF_70-30_03.png" alt="Mar_HNO3_CDF" width="40%"/>
+</p>
+
 
 ### Individual years
 Below are the indiviual years for February. In general, WACCM varies a lot more than the obs.
